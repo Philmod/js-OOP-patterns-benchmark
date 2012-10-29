@@ -1,0 +1,24 @@
+{
+  "name": "js-OOP-patterns-benchmark",
+  "version": "0.0.1",
+  "description": "Benchmark of three OOP patterns in javascript",
+  "keywords": [
+    "javascript",
+    "oop",
+    "patterns",
+    "benchmark"
+  ],
+  "author": "Philmod <philippe.modard@gmail.com>",
+  "engines": {
+    "node": ">= v0.8.4"
+  },
+  "dependencies": {
+    "benchmark": "1.0.x"
+  },
+  "main": "index",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/Philmod/js-OOP-patterns-benchmark.git"
+  },
+  "license": "BSD"
+}
